@@ -1,0 +1,6 @@
+D:\csharpProject\gameTest3\gameTest3\bin\Debug\gameTest3.exe.config
+D:\csharpProject\gameTest3\gameTest3\bin\Debug\gameTest3.exe
+D:\csharpProject\gameTest3\gameTest3\bin\Debug\gameTest3.pdb
+D:\csharpProject\gameTest3\gameTest3\obj\Debug\gameTest3.csprojResolveAssemblyReference.cache
+D:\csharpProject\gameTest3\gameTest3\obj\Debug\gameTest3.exe
+D:\csharpProject\gameTest3\gameTest3\obj\Debug\gameTest3.pdb
